@@ -6,7 +6,11 @@ Zenburn Color scheme for DrDracket
 This package defines a zenburn colorscheme
 for [DrRacket](http://www.racket-lang.org).
 
-More information about Zenburn.
+[More information about Zenburn](https://github.com/jnurmine/Zenburn).
+
+The colors in this color scheme were based on the ones in the
+[zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) package
+by Bozhidar Batsov.
 
 Installation
 --------------
